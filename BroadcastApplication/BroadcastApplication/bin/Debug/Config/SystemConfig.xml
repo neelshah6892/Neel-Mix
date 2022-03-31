@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ApplicationName>BankNifty</ApplicationName>
+  <NseCmBroadcastIp>233.1.2.5</NseCmBroadcastIp>
+  <NseCmBroadcastPort>34074</NseCmBroadcastPort>
+  <NseFoBroadcastIp>233.1.2.5</NseFoBroadcastIp>
+  <NseFoBroadcastPort>34330</NseFoBroadcastPort>
+  <Gateway>192.168.1.63</Gateway>
+</SystemConfiguration>
