@@ -1,0 +1,60 @@
+[<section class="tab-block current-fno-oi-breakup" id="current-fno-oi-breakup">
+<h2 class="tab-block-heading">CURRENT F&amp;O OPEN INTEREST BREAK-UP</h2>
+<div class="tab-content">
+<div class="responsive-table">
+<table class="stripped-table stripped-table--grouped">
+<thead>
+<tr class="main-thead-row tr-pc-visible">
+<th class="" colspan=""></th>
+<th class="" colspan="2">Futures</th>
+<th class="col-group-cell-bg" colspan="2">Calls</th>
+<th class="" colspan="2">Puts</th>
+<th class="col-group-cell-bg" colspan="2">Total</th>
+<th class="" colspan="2"></th>
+</tr>
+<tr class="tr-pc-visible">
+<th class="">Security</th>
+<th class="table-cell-value"><span>Open Interest</span><span>(in Contracts)</span></th>
+<th class="table-cell-value">% OI Change</th>
+<th class="table-cell-value col-group-cell-bg"><span>Open Interest</span><span>(in Contracts)</span></th>
+<th class="table-cell-value col-group-cell-bg">% OI Change</th>
+<th class="table-cell-value"><span>Open Interest</span><span>(in Contracts)</span></th>
+<th class="table-cell-value">% OI Change</th>
+<th class="table-cell-value col-group-cell-bg"><span>Open Interest</span><span>(in Contracts)</span></th>
+<th class="table-cell-value col-group-cell-bg">% OI Change</th>
+<th class="table-cell-value">1 Month OI(%)</th>
+<th class="table-cell-value">Rollover (%)</th>
+</tr>
+<tr class="tr-tablet-only-visible">
+<th class="">Security</th>
+<th class="table-cell-value"><span>Futures</span><span>OI</span></th>
+<th class="table-cell-value"><span>Options</span><span>OI</span></th>
+<th class="table-cell-value"><span>Total</span><span>OI</span></th>
+<th class="table-cell-value"><span>Rollover</span><span>%</span></th>
+<th class="table-cell-value"><span>Notional</span><span>Turnover</span></th>
+</tr>
+<tr class="tr-mobile-visible">
+<th class="">Security</th>
+<th class="table-cell-value"><span>Futures</span><span>OI</span></th>
+<th class="table-cell-value col-group-cell-bg"><span>Call</span><span>OI</span></th>
+<th class="table-cell-value"><span>Put</span><span>OI</span></th>
+<th class="table-cell-value col-group-cell-bg"><span>Total</span><span>OI</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="loader-container td-pc-visible" colspan="11">
+<span class="loader"></span>
+</td>
+<td class="loader-container td-tablet-only-visible" colspan="6">
+<span class="loader"></span>
+</td>
+<td class="loader-container td-mobile-visible" colspan="5">
+<span class="loader"></span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>]
