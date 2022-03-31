@@ -1,0 +1,5 @@
+
+filedialog dialog
+screen manager-> screen -> auto generate
+save checkbox states
+check bind options
