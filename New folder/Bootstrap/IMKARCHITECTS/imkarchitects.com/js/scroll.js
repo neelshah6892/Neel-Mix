@@ -1,0 +1,1 @@
+var $=jQuery.noConflict();jQuery(document).ready(function(o){scrollToTop.init()});var scrollToTop={init:function(){$(window).scroll(function(){$(this).scrollTop()>100?$(".scrollToTop").fadeIn():$(".scrollToTop").fadeOut()}),$(".scrollToTop").click(function(){return $("html, body").animate({scrollTop:0},800),!1})}};

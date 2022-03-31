@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.scdaarchitects.com	TRUE	/	FALSE	1999999999	PHPSESSID	b3e272vtmon7nuhct4b93n8fg4
+www.scdaarchitects.com	TRUE	/	FALSE	1999999999	hl	ch
+
