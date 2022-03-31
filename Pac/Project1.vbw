@@ -1,0 +1,14 @@
+Form1 = 198, 198, 775, 642, C, 22, 22, 599, 466, C
+modFunctions = 44, 44, 621, 488, C
+modMain = 110, 110, 729, 554, C
+modSysread2 = 110, 110, 909, 554, C
+modWinsock = 132, 132, 827, 457, C
+clsICMPProtocol = 22, 22, 313, 466, C
+clsIPHeader = 110, 110, 986, 435, C
+clsMain = 0, 0, 577, 444, C
+clsProtocol = 66, 66, 643, 510, C
+clsProtocolInterface = 110, 110, 687, 554, C
+clsTCPProtocol = 88, 88, 665, 532, C
+clsUDPProtocol = 132, 132, 709, 576, C
+colProtocols = 176, 176, 753, 620, C
+cSuperClass = 154, 154, 731, 598, C
